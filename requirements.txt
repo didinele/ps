@@ -1,5 +1,6 @@
 appnope==1.0.0
 asttokens==3.0.2
+cffi==2.1.1
 comm==0.2.3
 contourpy==1.4.0
 cycler==0.12.1
@@ -26,11 +27,14 @@ prompt_toolkit==3.0.53
 psutil==7.2.2
 ptyprocess==0.7.0
 pure_eval==0.2.4
+pycparser==3.11
 Pygments==2.21.0
 pyparsing==3.3.3
 python-dateutil==2.9.0.post0
 pyzmq==27.2.0
+scipy==1.18.1
 six==1.17.0
+sounddevice==0.5.6
 stack-data==0.6.3
 tornado==6.5.10
 traitlets==5.16.1
